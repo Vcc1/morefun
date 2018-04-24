@@ -1,0 +1,14 @@
+{
+  "name": "name.zhw.morefun",
+  "version": "0.0.1",
+  "description": "魔方硬件SDK",
+  "cordova": {
+    "id": "name.zhw.morefun",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "name.zhw",
+  "license": "ISC"
+}
