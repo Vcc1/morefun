@@ -1,4 +1,4 @@
-﻿package name.zhw.morefun;
+package name.zhw.morefun;
 
 import android.os.Bundle;
 import android.os.IBinder;
